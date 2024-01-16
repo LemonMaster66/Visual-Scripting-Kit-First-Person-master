@@ -1,0 +1,403 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.3f1 (21747dafc6ee) revision 2192509'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/539993/Downloads/Visual-Scripting-Kit-First-Person-master/Visual-Scripting-Kit-First-Person-master
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59421
+-job-worker-count
+3
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/539993/Downloads/Visual-Scripting-Kit-First-Person-master/Visual-Scripting-Kit-First-Person-master
+C:/Users/539993/Downloads/Visual-Scripting-Kit-First-Person-master/Visual-Scripting-Kit-First-Person-master
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18296] Host "[IP] 172.27.171.5 [Port] 0 [Flags] 2 [Guid] 3262426763 [EditorId] 3262426763 [Version] 1048832 [Id] WindowsEditor(7,L-CB346-21228) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [18296] Host "[IP] 172.27.171.5 [Port] 0 [Flags] 2 [Guid] 3262426763 [EditorId] 3262426763 [Version] 1048832 [Id] WindowsEditor(7,L-CB346-21228) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 33.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.3f1 (21747dafc6ee)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/539993/Downloads/Visual-Scripting-Kit-First-Person-master/Visual-Scripting-Kit-First-Person-master/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007733 seconds.
+- Loaded All Assemblies, in  1.217 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.426 seconds
+Domain Reload Profiling: 1638ms
+	BeginReloadAssembly (188ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (228ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (74ms)
+	LoadAllAssembliesAndSetupDomain (705ms)
+		LoadAssemblies (182ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (702ms)
+			TypeCache.Refresh (700ms)
+				TypeCache.ScanAssembly (400ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (427ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (353ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (8ms)
+			ProcessInitializeOnLoadAttributes (246ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\539993\Downloads\Visual-Scripting-Kit-First-Person-master\Visual-Scripting-Kit-First-Person-master\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\539993\Downloads\Visual-Scripting-Kit-First-Person-master\Visual-Scripting-Kit-First-Person-master\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.877 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+System.Exception: Error! Visual Scripting: couldn't find visual scripting package
+  at Unity.VisualScripting.PackageVersionUtility.get_version () [0x00043] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\PackageVersionUtility.cs:31 
+  at Unity.VisualScripting.BoltCoreManifest.get_version () [0x00000] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Plugin\BoltCoreManifest.cs:11 
+  at Unity.VisualScripting.PluginManifest.get_currentVersion () [0x00000] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Plugins\PluginManifest.cs:33 
+  at Unity.VisualScripting.PluginManifest.get_versionMismatch () [0x00000] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Plugins\PluginManifest.cs:48 
+  at Unity.VisualScripting.PluginContainer.Initialize () [0x00525] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Plugins\PluginContainer.cs:208 
+  at Unity.VisualScripting.PluginContainer.InitializeOnLoad () [0x00009] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Plugins\PluginContainer.cs:32 
+  at Unity.VisualScripting.VSUsageUtility.DoInitializeOnLoadCalls () [0x00034] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\VSUsageUtility.cs:76 
+  at Unity.VisualScripting.VSUsageUtility.set_isVisualScriptingUsed (System.Boolean value) [0x0002c] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\VSUsageUtility.cs:114 
+  at Unity.VisualScripting.VSUsageUtility.CheckAndSetIsVisualScriptingUsed () [0x00032] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\VSUsageUtility.cs:48 
+  at Unity.VisualScripting.VSUsageUtility..cctor () [0x00000] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\VSUsageUtility.cs:22 
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.342 seconds
+Domain Reload Profiling: 2215ms
+	BeginReloadAssembly (463ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (55ms)
+	LoadAllAssembliesAndSetupDomain (285ms)
+		LoadAssemblies (319ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (104ms)
+			TypeCache.Refresh (81ms)
+				TypeCache.ScanAssembly (69ms)
+			BuildScriptInfoCaches (15ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1343ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1016ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (908ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 63 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2072 unused Assets / (2.2 MB). Loaded Objects now: 2672.
+Memory consumption went from 192.7 MB to 190.5 MB.
+Total: 24.951800 ms (FindLiveObjects: 0.382300 ms CreateObjectMapping: 0.448700 ms MarkObjects: 22.198200 ms  DeleteObjects: 1.920800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 470402.467395 seconds.
+  path: Assets/BoltKit_FirstPerson/Prefabs/PlayerBullet.prefab
+  artifactKey: Guid(964361af4c2f92547a7f06eb814f9364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Prefabs/PlayerBullet.prefab using Guid(964361af4c2f92547a7f06eb814f9364) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8196d6230a92fabcd66a8aff831caa53') in 4.380625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.385357 seconds.
+  path: Assets/BoltKit_FirstPerson/Prefabs/Player.prefab
+  artifactKey: Guid(4e73443892bc9ad4c94d08a00b2c4d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Prefabs/Player.prefab using Guid(4e73443892bc9ad4c94d08a00b2c4d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76d1216a8846eb9134ae9fb17b532ffe') in 1.1231913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 158
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.215482 seconds.
+  path: Assets/BoltKit_FirstPerson/Prefabs/Player.prefab
+  artifactKey: Guid(4e73443892bc9ad4c94d08a00b2c4d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Prefabs/Player.prefab using Guid(4e73443892bc9ad4c94d08a00b2c4d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e28aa4dbb69eeb3b67d692162916ed7') in 0.0778457 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 158
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.039896 seconds.
+  path: Assets/BoltKit_FirstPerson/Prefabs/Player.prefab
+  artifactKey: Guid(4e73443892bc9ad4c94d08a00b2c4d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Prefabs/Player.prefab using Guid(4e73443892bc9ad4c94d08a00b2c4d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6109dca194961fc87cb24b6e2a7a1aff') in 0.0789311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 158
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.278138 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(a7c6ddf22f4134859bcb7424f1a9c258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(a7c6ddf22f4134859bcb7424f1a9c258) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c279a4af306850446c5a278033b8a545') in 0.0009049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044652 seconds.
+  path: Assets/Textures/Arrow Key.png
+  artifactKey: Guid(ee7a4367f47ec4b21bd9d9cb78ead847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Arrow Key.png using Guid(ee7a4367f47ec4b21bd9d9cb78ead847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e597002dc0aa47131fe58d1df9208ac6') in 0.0747274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Textures/Background With Outline.png
+  artifactKey: Guid(27842cb1d1292433ea581e0c907300ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Background With Outline.png using Guid(27842cb1d1292433ea581e0c907300ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b12886cc7d7dcada96b511a213f28d9') in 0.0451509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Textures/Check Mark.png
+  artifactKey: Guid(a29ac5ac648dc49b48f479a85b519762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Check Mark.png using Guid(a29ac5ac648dc49b48f479a85b519762) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '504d45e69771e5110b02959052f5dcb0') in 0.0384275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Textures/Cross.png
+  artifactKey: Guid(9ef9ea36cd7de4d4d8aec994ec5f39ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Cross.png using Guid(9ef9ea36cd7de4d4d8aec994ec5f39ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb144acf61c4ddaae4d2bddccb439d9c') in 0.0268308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.398652 seconds.
+  path: Assets/Textures/Stickers
+  artifactKey: Guid(9228199e2fb49445b86ef8adb10064e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stickers using Guid(9228199e2fb49445b86ef8adb10064e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf147525db5b0b9c674e5e63c3aadb3b') in 0.0008399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045954 seconds.
+  path: Assets/Textures/Stickers/Gear.png
+  artifactKey: Guid(9e48b5c1b45fe46eba81c4dc1cbe1c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stickers/Gear.png using Guid(9e48b5c1b45fe46eba81c4dc1cbe1c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10cb7fca8e8c4396fb737a179f1a70ef') in 0.0279339 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.380907 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes
+  artifactKey: Guid(c130f5e5b12752b41a3ca95f11a49efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes using Guid(c130f5e5b12752b41a3ca95f11a49efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd958fa55a2c544a3f10ab89bbd1877e5') in 0.0009413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064702 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/DaySky.mat
+  artifactKey: Guid(617d9be015db68348a623b01ea51a8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/DaySky.mat using Guid(617d9be015db68348a623b01ea51a8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '333d8770a6a8098031b86a95b091d208') in 0.1719966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.033617 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/Textures
+  artifactKey: Guid(7d693ed4934751b44a79dfe2c3d6ba33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/Textures using Guid(7d693ed4934751b44a79dfe2c3d6ba33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '56f009a82333ecfe56b538e2103aabdc') in 0.0007543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070862 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/Textures/DaySky_Back.png
+  artifactKey: Guid(8040480db00a3463d8d85b46da1a1bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/Textures/DaySky_Back.png using Guid(8040480db00a3463d8d85b46da1a1bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d19bb64ecadce596269b60ef073d7d1') in 0.0368613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/Textures/NightSky_Up.png
+  artifactKey: Guid(a6436b2f9c10d4bfca0a44bdf7f2a831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/Textures/NightSky_Up.png using Guid(a6436b2f9c10d4bfca0a44bdf7f2a831) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '737d80aa60ff85d3fea7968573dba005') in 0.0411336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/Textures/NightSky_Back.png
+  artifactKey: Guid(d6ee9a992debd4b3caa930dadb31e7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/Textures/NightSky_Back.png using Guid(d6ee9a992debd4b3caa930dadb31e7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '387e51f8de232e0b76adf0a0ac73f802') in 0.0312727 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/Textures/DaySky_Up.png
+  artifactKey: Guid(fab5691575a5f42b681a96e612735efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/Textures/DaySky_Up.png using Guid(fab5691575a5f42b681a96e612735efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1f01743e749d771820a7a7275578f0a') in 0.0351725 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/BoltKit_FirstPerson/Skyboxes/Textures/DaySky_Left.png
+  artifactKey: Guid(5c74f298489494d77a4251f0a1d69e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Skyboxes/Textures/DaySky_Left.png using Guid(5c74f298489494d77a4251f0a1d69e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5035d94d17aeb6534c8f8e6079a305b1') in 0.0420302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.146269 seconds.
+  path: Assets/BoltKit_FirstPerson/Sprites
+  artifactKey: Guid(051cff82311fa1a4cb5371469a818433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Sprites using Guid(051cff82311fa1a4cb5371469a818433) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afd7e70d923cf4c12d6863e173da944d') in 0.0008491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.194655 seconds.
+  path: Assets/BoltKit_FirstPerson/Sprites/GUI
+  artifactKey: Guid(523390fd975f0cb40af493dd2f0ceab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Sprites/GUI using Guid(523390fd975f0cb40af493dd2f0ceab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '10ea892beeea688a520b41d1e9460a45') in 0.0007076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039937 seconds.
+  path: Assets/BoltKit_FirstPerson/Sprites/GUI/Crosshair.png
+  artifactKey: Guid(2a5b341a1a858444dbe5e01c59ece1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Sprites/GUI/Crosshair.png using Guid(2a5b341a1a858444dbe5e01c59ece1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e36c363831a46bcbd53e66dae268075') in 0.0349065 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/BoltKit_FirstPerson/Sprites/GUI/Key.png
+  artifactKey: Guid(44bd86e477786b448b3319c7eede228c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoltKit_FirstPerson/Sprites/GUI/Key.png using Guid(44bd86e477786b448b3319c7eede228c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b4c1dd489f404d8b575bb7ca71034d9') in 0.0468144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
